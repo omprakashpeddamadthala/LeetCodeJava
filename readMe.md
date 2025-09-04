@@ -7,14 +7,14 @@
 7. [x] Java Program to check if a vowel is present in the string?
 8. [x] Java Program to Check if the given number is prime?
 9. [x] Prime Number Program in Java
-10. [ ] Fibonacci Series using recursion
-11. [ ] Fibonacci Series in Java without using recursion
-12. [ ] Find factorial of an integer?
-13. [ ] How to Reverse a Number in Java
-14. [ ] How to reverse a String in Java?
-15. [ ] How to reverse a string in Java without using the reverse function
-16. [ ] Write a Java Program to reverse a string without using String inbuilt function
-17. [ ] Write a Java Program to reverse a string without using the String inbuilt function reverse()
+10. [x] Fibonacci Series using recursion
+11. [x] Fibonacci Series in Java without using recursion
+12. [x] Find factorial of an integer?
+13. [x] How to Reverse a Number in Java
+14. [x] How to reverse a String in Java?
+15. [x] How to reverse a string in Java without using the reverse function
+16. [x] Write a Java Program to reverse a string without using String inbuilt function
+17. [x] Write a Java Program to reverse a string without using the String inbuilt function reverse()
 18. [ ] Palindrome Check
 19. [ ] Java Program to determine whether a given string is a palindrome
 20. [ ] Java Program to count the total number of characters in a string
